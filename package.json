@@ -19,6 +19,7 @@
   "homepage": "https://github.com/satyamsharma7214/Pepcoding#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
+    "puppeteer": "^9.1.1",
     "request": "^2.88.2"
   }
 }
